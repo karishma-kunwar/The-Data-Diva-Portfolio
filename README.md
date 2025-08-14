@@ -1,4 +1,4 @@
-Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
+Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using data-driven
 insights to tackle real-world challenges.
 
 # Analysis and Visualization Projects
