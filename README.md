@@ -5,6 +5,8 @@ insights to tackle real-world challenges.
 
 ## I love story-telling- sharing my latest data stories for an organization I work.
 
+<img src="MeCosa-1.png" alt="Alt Text" width="500" height="300">
+
 <img src="MeCosa.png" alt="Alt Text" width="500" height="300">
 
 # Analysis and Visualization Projects
