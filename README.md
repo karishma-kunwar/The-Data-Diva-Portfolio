@@ -3,9 +3,9 @@ insights to tackle real-world challenges.
 
 # Let the visuals talk
 
-## I love story telling- sharing my latest data stories for an organization I work.
+## I love story-telling- sharing my latest data stories for an organization I work.
 
-<img src="Mecosa.pdf" alt="Alt Text" width="500" height="300">
+<embed src="MeCosa.pdf" width="600" height="500" type="application/pdf">
 
 # Analysis and Visualization Projects
 
