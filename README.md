@@ -7,6 +7,7 @@ insights to tackle real-world challenges.
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Financial%20Loan%20Dashboard)
 
 <b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household.
+1.
 
 ### Task accomplished in this project
 * Analyzed Good vs Bad loan issued, Loan Status, Loan Amount issued by states, Loan Amount issued by month, Loan Amount issued by Loan Ownership
