@@ -6,8 +6,11 @@ insights to tackle real-world challenges.
 ## 1. Financial Loan Analysis Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Financial%20Loan%20Dashboard)
 
-<b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household.
-1.
+<b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household to answer questions like:
+<br>
+1. What is the total number of loan applications along with the funded amount and paid amount with MTD contribution?
+2. How does good and bad loan differs from each other in terms of number of application, funded amount and total paid amount?
+3. How does total loan amount issued differs from one state to other in USA and also based on Home ownership?
 
 ### Task accomplished in this project
 * Analyzed Good vs Bad loan issued, Loan Status, Loan Amount issued by states, Loan Amount issued by month, Loan Amount issued by Loan Ownership
@@ -34,7 +37,13 @@ insights to tackle real-world challenges.
 ## 2. Sales Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Car%20sales%20Dashboard)
 
-<b> About the project: </b> This dashboard is a visualization project focusing on analyzing the car sales across different states in USA.
+<b> About the project: </b> This dashboard is a visualization project focusing on analyzing the car sales across different states in USA to answer following questions:
+<br>
+1. What is the YTD total and average car sales revenue and total number of car sold?
+2. What is the weekly trend of the car sales pointing out the week with the highest car sales revenue and with the lowest car sales revenue?
+3. How does car sales differs from state to state in USA?
+4. Which company is contributing to the highest car sales in USA in terms of revenue and number?
+5. How does sales differes from different body style and body colour?
 
 ### Task accomplished in this project
 * Analysized the car sales trend by Region, company, body style, monthly basis.
