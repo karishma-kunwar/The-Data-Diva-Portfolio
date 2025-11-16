@@ -6,7 +6,10 @@ insights to tackle real-world challenges.
 ## 1. Financial Loan Analysis Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Financial%20Loan%20Dashboard)
 
-<b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household.
+<b> About the project:</b> This is a visualization project accomplished using PowerBI, on a finance dataset taken from the American household to answer questions like:
+1. What is total number of loan application, total funded amount, total payment amount with MTD contribution?
+2. Dive dive into issued good and bad loan in terms of loan application, total funded amount, total payment amount?
+3. What is the total loan amount issued categorized by month, state, home ownership?
 
 ### Task accomplished in this project
 * Analyzed Good vs Bad loan issued, Loan Status, Loan Amount issued by states, Loan Amount issued by month, Loan Amount issued by Loan Ownership
@@ -33,7 +36,11 @@ insights to tackle real-world challenges.
 ## 2. Sales Dashboard
 [Link to the project](https://github.com/kari-hue/PowerBI-projects/tree/main/Car%20sales%20Dashboard)
 
-<b> About the project: </b> This dashboard is a visualization project focusing on analyzing the car sales across different states in USA.
+<b> About the project: </b> This dashboard is a visualization project focusing on analyzing the car sales across different states in USA to answer following questions:
+1. What is YTD total and average sales along with the total number of cars sold?
+2. What does the weekly car sales look like and which week has the highest and the lowest sales?
+3. How does sales differs in terms of regions, body style and color of the car?
+4. Which car company is selling the most number of cars and earning highest revenue?
 
 ### Task accomplished in this project
 * Analysized the car sales trend by Region, company, body style, monthly basis.
