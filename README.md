@@ -5,7 +5,7 @@ insights to tackle real-world challenges.
 
 ## I love story-telling- sharing my latest data stories for an organization I work.
 
-<iframe src="MeCosa.pdf" width="600" height="500"></iframe>
+[Open Mecosa PDF](MeCosa.pdf)
 
 # Analysis and Visualization Projects
 
