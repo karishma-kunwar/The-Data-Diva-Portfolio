@@ -1,6 +1,12 @@
 Passionate data enthusiast with a robust background in data and business analytics and a strong interest in using datadriven
 insights to tackle real-world challenges.
 
+# I love story telling
+
+## Let the visuals talk - sharing my latest data stories for an organization I work
+
+<img src="Mecosa.pdf" alt="Alt Text" width="500" height="300">
+
 # Analysis and Visualization Projects
 
 ## 1. Financial Loan Analysis Dashboard
