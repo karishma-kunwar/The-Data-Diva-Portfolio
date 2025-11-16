@@ -8,6 +8,7 @@ insights to tackle real-world challenges.
 <img src="MeCosa -3.png" alt="Alt Text" width="500" height="300">
 <img src="MeCosa.png" alt="Alt Text" width="500" height="300">
 <img src="MeCosa-1.png" alt="Alt Text" width="500" height="300">
+<img src="MeCosa-5.png" alt="Alt Text" width="500" height="300">
 
 
 # Analysis and Visualization Projects
